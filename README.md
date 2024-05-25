@@ -1,2 +1,2 @@
 # Calculator
-Create Calculator with only HTML and CSS 
+Creating a simple calculator with just html and css, using the neumorphims theme
